@@ -29,7 +29,7 @@ This is a backend REST API that performs certain actions on the points in a user
       1.  Open the project folder in a terminal (root directory).
       2.  **`npm i`** 
       3.  **`npm run dev`**
+			4. The repository also has **Postman** Folder which can be imported in Postman to run the api
   - Port 5000 is used for localhost.
-  - The API is also deployed on **Heroku** and can be hit at: 
+  - The API is also deployed on **Heroku** and can be hit at: https://young-inlet-09951.herokuapp.com/{route}.
   - To run tests, run **`npm test`**. It will also provide the **code coverage**.
-	-	The repository also has **Postman** Folder which can be imported in Postman to run the api
