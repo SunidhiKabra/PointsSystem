@@ -1,5 +1,5 @@
 const request = require("supertest");
-const app = require("../../server");
+const app = require("../server");
 
 describe("API Endpoints", () => {
   it("default: default route should guide the user", async () => {
