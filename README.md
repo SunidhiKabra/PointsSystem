@@ -33,4 +33,4 @@ This is a backend REST API that performs certain actions on the points in a user
 	5. To run tests, run **`npm test`**. I twill also provide the **code coverage**.
 	6. Port 5000 is used for localhost.
 	
-- The API is also deployed on **Heroku** and can be hit at: https://young-inlet-09951.herokuapp.com/{route}. 
+- The API is also deployed on **Heroku** and can be hit at: https://young-inlet-09951.herokuapp.com/points/. 
