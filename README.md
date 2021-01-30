@@ -25,12 +25,12 @@ This is a backend REST API that performs certain actions on the points in a user
   - User should not have negative balance for any Payer
 
 ## How to run:
-  - To run locally:
-      1.  Open the project folder in a terminal (root directory).
-      2.  **`npm i`** 
-      3.  **`npm run dev`**
-      4.	The repository also has **Postman** Folder which can be imported in Postman to run the api
-			5.	To run tests, run **`npm test`**. It will also provide the **code coverage**.
-			6.	Port 5000 is used for localhost.
-			
-  - The API is also deployed on **Heroku** and can be hit at: https://young-inlet-09951.herokuapp.com/{route}.
+-	To run locally:
+	1.	Open the project folder in a terminal (root directory). 
+	2.	**`npm i`** 
+	3. **`npm run dev`**
+	4. The repository also has **Postman** Folder which can be imported in Postman to run the api.
+	5. To run tests, run **`npm test`**. I twill also provide the **code coverage**.
+	6. Port 5000 is used for localhost.
+	
+- The API is also deployed on **Heroku** and can be hit at: https://young-inlet-09951.herokuapp.com/{route}. 
