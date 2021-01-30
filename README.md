@@ -16,9 +16,9 @@ This is a backend REST API that performs certain actions on the points in a user
       Explanation: Returns the list of payer and their points at that time. 
 	
 ## Routes:
-  - /points/add (POST) : This route can be used to add points to the user
-  - /points/deduct (POST) : This route can be used to deduct points from the user
-  - /points/balance (GET) : This route can be used to get the total current balance of the user
+  - **/points/add (POST)** : This route can be used to add points to the user
+  - **/points/deduct (POST)** : This route can be used to deduct points from the user
+  - **/points/balance (GET)** : This route can be used to get the total current balance of the user
 
 ## Constraints:
   - While deducting points, oldest points have to be deducted first.
@@ -27,8 +27,9 @@ This is a backend REST API that performs certain actions on the points in a user
 ## How to run:
   - To run locally:
       1.  Open the project folder in a terminal (root directory).
-      2.  `npm i` 
-      3.  `npm run dev`
+      2.  **`npm i`** 
+      3.  **`npm run dev`**
   - Port 5000 is used for localhost.
-  - The API is also deployed on Heroku and can be hit at: 
-  - To run tests, run `npm test`. It will also provide the code coverage.
+  - The API is also deployed on **Heroku** and can be hit at: 
+  - To run tests, run **`npm test`**. It will also provide the **code coverage**.
+	-	The repository also has **Postman** Folder which can be imported in Postman to run the api
